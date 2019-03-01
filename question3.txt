@@ -2,3 +2,6 @@ This is the solution to challenge 3
 We would like to pull it off quickly ~
 We are going to make it
 
+Jay made a change the file.
+We tried and made error many times.
+Now we have a better understanding on how it works. 
